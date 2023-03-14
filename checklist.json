@@ -1,0 +1,8 @@
+{
+  "id": "number",
+  "title": "string",
+  "steps": "string",
+  "expected result": "string",
+  "status": "boolean",
+  "comment": "string"
+}
